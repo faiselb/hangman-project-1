@@ -86,3 +86,11 @@ body {
     margin-top: 25px;
     text-align: center;
   }
+
+  .word-display {
+    background: white;
+    border: 1px #6f5a2d solid;
+    height: 31px;
+    padding: 3pt;
+    border-radius: 15px;
+  }
