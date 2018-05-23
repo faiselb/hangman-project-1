@@ -69,4 +69,14 @@ body {
     background: white;
   }
   
+  #letter-input {
+    border: 2px black solid;
+    width: 20pt;
+    font-size: 14pt;
+    text-align: center;
+  }
+  
+  .guessed-letter {
+    color: red;
+  }
   
