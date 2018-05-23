@@ -41,9 +41,22 @@ body {
   .topmatter {
     height: 210px;
   }
-  
+
   .bottommatter {
     height: auto;
     margin:auto;
   }
+
+  .side-container {
+    margin-top: 45px;
+    margin-left: 100px;
+    width: 170px;
+    text-align: center;
+    position:relative;
+  }
+  
+  .container-title {
+    color: red;
+  }
+  
   
