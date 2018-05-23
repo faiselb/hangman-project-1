@@ -109,3 +109,22 @@ body {
     height: 205px;
     float: right;
   }
+
+  .scaffolding-top {
+    width: 108px;
+    height: 5px;
+    background:red;
+  }
+  
+  .scaffolding-left {
+    width: 5px;
+    height: 200px;
+    background:red;
+    float: left;
+  }
+  
+  .scaffolding-base {
+    width: 150px;
+    height: 5px;
+    background:red;
+  }
