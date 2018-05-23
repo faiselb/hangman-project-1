@@ -37,8 +37,13 @@ body {
     color:red;
   }
 
+
   .topmatter {
     height: 210px;
   }
-
+  
+  .bottommatter {
+    height: auto;
+    margin:auto;
+  }
   
