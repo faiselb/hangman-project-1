@@ -58,5 +58,15 @@ body {
   .container-title {
     color: red;
   }
+
+  .input-area {
+    width: 150px;
+    height: 43px;
+    margin: auto;
+    padding: 3pt;
+    border: 1px black solid;
+    border-radius: 20px;
+    background: white;
+  }
   
   
