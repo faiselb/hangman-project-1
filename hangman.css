@@ -128,3 +128,24 @@ body {
     height: 5px;
     background:red;
   }
+
+  .draw-area {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+  }
+  
+  .rope {
+    margin: auto;
+    height: 25px;
+    width: 5px;
+    background: red;
+  }
+  
+  .head {
+    margin: auto;
+    height: 30px;
+    width: 30px;
+    background:red;
+    border-radius: 15px;
+  }
