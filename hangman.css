@@ -154,4 +154,16 @@ body {
     width: 100px;
   }
   
+  .leftarm {
+    float: left;
+    height: 10px;
+    width: 45px;
+    background: red;
+  }
   
+  .rightarm {
+    float: right;
+    height: 10px;
+    width: 45px;
+    background: red;
+  }
