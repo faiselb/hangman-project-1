@@ -94,3 +94,10 @@ body {
     padding: 3pt;
     border-radius: 15px;
   }
+
+  .shown-letter {
+    border-bottom: 3px #000 solid;
+    padding: 0 2px;
+    margin: 0 2px;
+    color: red;
+  }
