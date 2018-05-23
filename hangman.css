@@ -89,14 +89,13 @@ body {
 
   .word-display {
     background: white;
-    border: 1px #6f5a2d solid;
+    border: 1px black solid;
     height: 31px;
     padding: 3pt;
     border-radius: 15px;
   }
 
   .shown-letter {
-    border-bottom: 3px #000 solid;
     padding: 0 2px;
     margin: 0 2px;
     color: red;
@@ -149,3 +148,10 @@ body {
     background:red;
     border-radius: 15px;
   }
+
+  .armbox {
+    margin: auto;
+    width: 100px;
+  }
+  
+  
