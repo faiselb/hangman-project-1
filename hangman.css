@@ -101,3 +101,11 @@ body {
     margin: 0 2px;
     color: red;
   }
+
+  .hang-container {
+    margin-top: -10px;
+    margin-right: 90px;
+    width: 200px;
+    height: 205px;
+    float: right;
+  }
