@@ -30,8 +30,6 @@ function guessLetter(letter, shown, answer) {
   return shown;
 }
 
-// above is just the basic rules to the game
-
 // induvidual parts
 
 function drawHead() {
